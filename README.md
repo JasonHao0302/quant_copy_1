@@ -341,5 +341,3 @@ if __name__ == "__main__":
 
 Open source is not easy. Please give the author some encouragement. Treat the author a cup of Mixue or Luckin Coffee, your Issues will be resolved first.
 
-![alipay](static/alipay.jpeg) 
-![alipay](static/wechat.jpeg)
